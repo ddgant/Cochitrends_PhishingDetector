@@ -66,6 +66,8 @@ Base de correos electrónicos reales obtenidos del caso Enron, útil para análi
    - `links_dataset.json` (PhishTank u otro)
    - `dominios_datasetFive.csv` (dominios maliciosos con columna `url`)
 
+   - Link de descarga completa "dataset": https://drive.google.com/drive/folders/1HcmZlMrNkq3kt4_DfD2UXPEfgrcXpc0Y?usp=drive_link
+
 4. Entrena el modelo:
    ```bash
    python train_model.py
